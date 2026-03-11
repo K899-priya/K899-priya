@@ -81,13 +81,6 @@ React
 
 ---
 
-# 🌆 GitHub Contribution Skyline
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K899-priya&theme=tokyonight"/>
-</p>
----
-
 # 🐍 Contribution Snake
 
 ![snake gif](https://github.com/K899-priya/Snake-game/blob/output/github-contribution-grid-snake.svg)
@@ -122,10 +115,6 @@ React
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K899-priya&theme=tokyonight"/>
-</p>
-
-<p align="center">
-⭐ From <b>Kumari Priya</b>
 </p>
 
 <p align="center">
