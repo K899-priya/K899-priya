@@ -75,11 +75,6 @@ React
 
 ---
 
-# 🐍 Contribution Snake
-
-![snake gif](https://github.com/K899-priya/Snake-game/blob/output/github-contribution-grid-snake.svg)
-
----
 # 🧠 Coding Quote
 
 <p align="center"type=horizontal&theme=tokyonight>
@@ -97,15 +92,51 @@ React
 | 🧘 AI Yoga Trainer | AI pose detection |
 | 🐍 Snake Game | Python game with animations|
 
-# 📦 Latest Repositories
+# 🚀 Featured Projects
 
-<p align="center">
+<table align="center">
 
-<img src="https://yoga-ai-app.vercel.app/&repo=Yoga-AI-App&theme=tokyonight"/>
+<tr>
 
-<a href="https://mini-youtube-clone-rust.vercel.app/&repo=Mini-youtube-clone&theme=tokyonight"/>
+<td width="50%" align="center">
 
-</p>
+### 🧘 AI Yoga Trainer
+
+AI powered yoga pose detection web app.
+
+<a href="https://yoga-ai-app.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://github.com/K899-priya/Yoga-AI-App">
+<img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🎬 Mini YouTube Clone
+
+A YouTube style video platform using API.
+
+<a href="https://mini-youtube-clone-rust.vercel.app/">
+<img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://github.com/K899-priya/Mini-youtube-clone">
+<img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 👀 Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
