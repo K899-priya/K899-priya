@@ -14,7 +14,7 @@ Frontend Developer | React | UI Designer
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **React, APIs, Tailwind**
+- 🌱 Currently learning **React, APIs**
 - 💻 Passionate about **Web Development**
 - 🎯 Goal: **Full Stack Developer**
 - ⚡ Love building **creative UI projects**
@@ -69,31 +69,66 @@ React
 
 ---
 
-# 🐍 Contribution Snake
+# 🌐 Portfolio
 
-![snake gif](https://github.com/K899-priya/K899-priya/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+
+<a href="https://portfolio-gules-nu-90.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live%20Website-blueviolet?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
 
 ---
 
+# 🌆 GitHub Contribution Skyline
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K899-priya&theme=tokyonight"/>
+</p>
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/K899-priya/Snake-game/blob/output/github-contribution-grid-snake.svg)
+
+---
+# 🧠 Coding Quote
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
 # 📌 Featured Projects
 
 | Project | Description |
 |------|-------------|
 | 🎬 YouTube Clone | YouTube UI using API |
 | 🧘 AI Yoga Trainer | AI pose detection |
-| 🐍 Snake Game | Python game with animations |
-| 💼 Portfolio | React portfolio website |
+| 🐍 Snake Game | Python game with animations|
 
 ---
 
-# 👀 Visitor Counter
-
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile%20views&color=0e75b6&style=flat"/>
-
+<img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-⭐ From [Priya](https://github.com/K899-priya)
+# 🌆 GitHub Skyline
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K899-priya&theme=tokyonight"/>
+</p>
+
+<p align="center">
+⭐ From <b>Kumari Priya</b>
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+</p>
+
