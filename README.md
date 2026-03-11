@@ -1,12 +1,11 @@
 
+<p >
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Loading+Developer+Profile...;Frontend+Developer+%7C+React+Developer;Welcome+to+Kumari+Priya's+GitHub"/>
+
  <p align="right">
-<img width="200" height="150" alt="Avater" src="https://github.com/user-attachments/assets/20d57def-2891-484b-a54e-8af4e6447756" />
+<img width="200" height="200" alt="Avater" src="https://github.com/user-attachments/assets/20d57def-2891-484b-a54e-8af4e6447756" />
 </p>
-
----
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=System+Booting...;Loading+Developer+Profile...;Frontend+Developer+%7C+React+Developer;Welcome+to+Kumari+Priya's+GitHub"/>
 
 </p>
 
