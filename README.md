@@ -2,15 +2,27 @@
 Hi 👋 I'm Kumari Priya
 </h1>
 
-<h3 align="center">
-Frontend Developer | React | UI Designer
-</h3>
+# 💻 Hacker Terminal
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=System+Booting...;Loading+Developer+Profile...;Frontend+Developer+%7C+React+Developer;Welcome+to+Priya's+GitHub"/>
+
+</p>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Open+Source+Contributor;UI%2FUX+Designer&center=true&width=500&height=45">
 </p>
 
 ---
+# 🎵 Coding Music
+
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxx&cover_image=true&theme=default"/>
+
+</p>
+
 
 ## 🚀 About Me
 
@@ -29,7 +41,6 @@ Frontend Developer | React | UI Designer
 
 </p>
 
----
 
 # 📊 Skill Progress
 
@@ -88,9 +99,9 @@ React
 ---
 # 🧠 Coding Quote
 
-<p align="center" type=horizontal&theme=tokyonight>
+<p align="center"type=horizontal&theme=tokyonight>
 
-> 💻 "Code is like humor. When you have to explain it, it's bad."  
+ 💻 "Code is like humor. When you have to explain it, it's bad."  
                                                     — Cory House
 </p>
 
