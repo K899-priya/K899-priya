@@ -1,22 +1,33 @@
 
-<p >
-
+<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Loading+Developer+Profile...;Frontend+Developer+%7C+React+Developer;Welcome+to+Kumari+Priya's+GitHub"/>
-
- <p align="right">
-<img width="200" height="200" alt="Avater" src="https://github.com/user-attachments/assets/20d57def-2891-484b-a54e-8af4e6447756" />
 </p>
 
-</p>
+<table>
+<tr>
 
----
+<td width="60%" valign="top">
 
-## 🚀 About Me
+<h2>🚀 About Me</h2>
 
-- 🌱 Currently learning **React, APIs**
-- 💻 Passionate about **Web Development**
-- 🎯 Goal: **Full Stack Developer**
-- ⚡ Love building **creative UI projects**
+<ul>
+<li>🌱 Currently learning <b>React & APIs</b></li>
+<li>💻 Passionate about <b>Web Development</b></li>
+<li>🎯 Goal: <b>Full Stack Developer</b></li>
+<li>⚡ Love building <b>creative UI projects</b></li>
+<li>📚 Always exploring new technologies</li>
+</ul>
+
+</td>
+
+<td width="40%" align="center">
+
+<img src="https://github.com/K899-priya/raw/main/avatar.png" width="220" style="border-radius:10px;"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
