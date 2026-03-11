@@ -1,11 +1,6 @@
 
-<p>
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="200"/>
-
  <p align="right">
 <img width="200" height="150" alt="Avater" src="https://github.com/user-attachments/assets/20d57def-2891-484b-a54e-8af4e6447756" />
-</p>
-
 </p>
 
 ---
