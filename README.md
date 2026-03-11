@@ -1,28 +1,11 @@
-<h1 align="center">
-Hi 👋 I'm Kumari Priya
-</h1>
-
-# 💻 Hacker Terminal
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=System+Booting...;Loading+Developer+Profile...;Frontend+Developer+%7C+React+Developer;Welcome+to+Priya's+GitHub"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%20Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=System+Booting...;Loading+Developer+Profile...;Frontend+Developer+%7C+React+Developer;Welcome+to+Kumari+Priya's+GitHub"/>
 
-</p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Developer;Open+Source+Contributor;UI%2FUX+Designer&center=true&width=500&height=45">
 </p>
 
 ---
-# 🎵 Coding Music
-
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31xxxxxxxx&cover_image=true&theme=default"/>
-
-</p>
-
 
 ## 🚀 About Me
 
@@ -114,7 +97,15 @@ React
 | 🧘 AI Yoga Trainer | AI pose detection |
 | 🐍 Snake Game | Python game with animations|
 
----
+# 📦 Latest Repositories
+
+<p align="center">
+
+<img src="https://yoga-ai-app.vercel.app/&repo=Yoga-AI-App&theme=tokyonight"/>
+
+<a href="https://mini-youtube-clone-rust.vercel.app/&repo=Mini-youtube-clone&theme=tokyonight"/>
+
+</p>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
