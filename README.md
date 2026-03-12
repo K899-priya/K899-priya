@@ -37,7 +37,7 @@ JavaScript
 ████████████░░░░░ 80%
 
 React  
-██████████░░░░░░░ 70%
+██████████░░░░░░░ 75%
 
 ---
 
@@ -77,7 +77,7 @@ React
 
 # 🧠 Coding Quote
 
-<p align="center"type=horizontal&theme=tokyonight>
+<p align="center" >
 
  💻 "Code is like humor. When you have to explain it, it's bad."  
                                                     — Cory House
@@ -86,13 +86,11 @@ React
 ---
 # 📌 Featured Projects
 
-| Project | Description |
-|------|-------------|
 | 🎬 YouTube Clone | YouTube UI using API |
 | 🧘 AI Yoga Trainer | AI pose detection |
 | 🐍 Snake Game | Python game with animations|
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects Active
 
 <table align="center">
 
@@ -139,7 +137,7 @@ A YouTube style video platform using API.
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile%100Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
