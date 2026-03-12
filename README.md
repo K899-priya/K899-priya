@@ -86,9 +86,11 @@ React
 ---
 # 📌 Featured Projects
 
+| Project | Description |
+|-----------|------------------|
 | 🎬 YouTube Clone | YouTube UI using API |
 | 🧘 AI Yoga Trainer | AI pose detection |
-| 🐍 Snake Game | Python game with animations|
+| 🐍 Snake Game | Python game with animations |
 
 # 🚀 Featured Projects Active
 
@@ -137,7 +139,7 @@ A YouTube style video platform using API.
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile%100Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile%30Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
