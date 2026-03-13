@@ -93,11 +93,11 @@ React
 
 # 🚀 Featured Projects Active
 
-<table align="center">
+<table>
 
 <tr>
 
-<td width="50%" align="center">
+<td width="30%" align="center">
 
 ### 🧘 AI Yoga Trainer
 
@@ -113,7 +113,7 @@ AI powered yoga pose detection web app.
 
 </td>
 
-<td width="50%" align="center">
+<td width="30%" align="center">
 
 ### 🎬 Mini YouTube Clone
 
@@ -124,6 +124,21 @@ A YouTube style video platform using API.
 </a>
 
 <a href="https://github.com/K899-priya/Mini-youtube-clone">
+<img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="30%" align="center">
+### 💻 Developer Hub
+
+All the tools a developer needs — in one powerful hub.
+
+<a href="https://developer-hub-io.vercel.app">
+<img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
+</a>
+
+<a href="https://github.com/K899-priya/developer-hub">
 <img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github">
 </a>
 
