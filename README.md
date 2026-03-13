@@ -20,7 +20,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,git,github,vscode,c" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,github,vscode,c,python" />
 
 </p>
 
@@ -78,7 +78,6 @@ React
 # 🧠 Coding Quote
 
 <p align="center" >
-
  💻 "Code is like humor. When you have to explain it, it's bad."  
                                                     — Cory House
 </p>
@@ -139,7 +138,7 @@ A YouTube style video platform using API.
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile%30Views&color=blueviolet&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
@@ -151,6 +150,6 @@ A YouTube style video platform using API.
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=135&section=footer"/>
 </p>
 
