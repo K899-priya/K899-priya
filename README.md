@@ -7,8 +7,8 @@
 
 ### 🚀 About Me
 
-- 🌱 Currently learning **React & APIs**
-- 💻 Passionate about **Web Development**
+- 🌱 Currently learning **Next.js & MongoDB**
+- 💻 Passionate about **Web Development**, **React & APIs**
 - 🎯 Goal: **Full Stack Developer**
 - ⚡ Love building **creative UI projects**
 
