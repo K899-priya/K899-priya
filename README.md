@@ -43,7 +43,7 @@ React
 
 # 📊 GitHub Stats
 
-<p align="center">
+<p align="right-center">
 
 <!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=K899-priya&show_icons=true&theme=tokyonight"/> -->
 
