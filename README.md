@@ -40,13 +40,15 @@ React
 ███████████░░░░░░░ 75%
 
 ---
-# 📊 GitHub Stats
+# 📊 GitHub Dashboard
 
 <p align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=K899-priya&show_icons=true&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K899-priya&theme=tokyonight"/>
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K899-priya&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=K899-priya&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=K899-priya&theme=tokyonight"/>
 
 </p>
 
@@ -154,14 +156,6 @@ All the tools a developer needs — in one powerful hub.
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-</p>
-
----
-
-# 🌆 GitHub Skyline
-
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=K899-priya&theme=tokyonight"/>
 </p>
 
 <p align="center">
