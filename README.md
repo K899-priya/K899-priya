@@ -40,12 +40,11 @@ React
 ███████████░░░░░░░ 75%
 
 ---
-
 # 📊 GitHub Stats
 
-<p align="right-center">
+<p align="center">
 
-<!--<img height="160em" src="https://github-readme-stats.vercel.app/api?username=K899-priya&show_icons=true&theme=tokyonight"/> -->
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=K899-priya&show_icons=true&theme=tokyonight"/>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=K899-priya&layout=compact&theme=tokyonight"/>
 
