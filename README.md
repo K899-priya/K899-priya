@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/58cfc1cb-ce34-4b9b-aa7e-f46768c604d1" width="220" height="220"/>
 
-### 🚀 About Me
+### 😎 About Me
 
 - 🌱 Currently learning **Next.js & MongoDB**
 - 💻 Passionate about **Web Development**, **React & APIs**
