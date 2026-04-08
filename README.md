@@ -39,7 +39,7 @@ JavaScript
 React  
 ████████████░░░░░░ 80%
 
-Python 
+Python   
 █████████░░░░░░░░░ 55%
 
 ---
