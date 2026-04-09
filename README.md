@@ -137,7 +137,7 @@ A YouTube style video platform using API.
  
 ### 💻 Developer Hub
 
-All the tools a developer needs — in one powerful hub.
+    All the tools a developer needs — in one powerful hub.
 
 <a href="https://developer-hub-io.vercel.app">
 <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
