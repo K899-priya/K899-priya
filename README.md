@@ -110,10 +110,6 @@ AI powered yoga pose detection web app.
 <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
 </a>
 
-<a href="https://github.com/K899-priya/Yoga-AI-App">
-<img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github">
-</a>
-
 </td>
 
 <td width="30%" align="center">
@@ -125,11 +121,6 @@ A YouTube style video platform using API.
 <a href="https://mini-youtube-clone-rust.vercel.app/">
 <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
 </a>
-
-<a href="https://github.com/K899-priya/Mini-youtube-clone">
-<img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github">
-</a>
-
 </td>
 
 <td width="30%" align="center">
@@ -140,10 +131,6 @@ A YouTube style video platform using API.
 
 <a href="https://developer-hub-io.vercel.app">
 <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel">
-</a>
-
-<a href="https://github.com/K899-priya/developer-hub">
-<img src="https://img.shields.io/badge/GitHub-Code-black?style=for-the-badge&logo=github">
 </a>
 
 </td>
