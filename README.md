@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%25Code&size=22&duration=2000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+Kumari+Priya's+GitHub;Frontend+Developer+%7C+React+Developer"/>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira%25Code&size=22&duration=2000&pause=550&color=00FF00&center=true&vCenter=true&width=600&lines=Welcome+to+Kumari+Priya's+GitHub;Frontend+Developer+%7C+React+Developer"/>
 </p>
 
 <img align="right" src="https://github.com/user-attachments/assets/58cfc1cb-ce34-4b9b-aa7e-f46768c604d1" width="220" height="220"/>
