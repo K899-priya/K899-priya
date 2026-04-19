@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github.com/user-attachments/assets/58cfc1cb-ce34-4b9b-aa7e-f46768c604d1" width="220" height="220"/>
 
-### 😎 About Me
+### 😎 ABOUT ME
 
 - 🌱 Currently learning **Next.js & MongoDB**
 - 💻 Passionate about **Web Development**, **React & APIs**
@@ -16,7 +16,7 @@
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ TECH STACK
 
 <p align="center">
 
@@ -25,7 +25,7 @@
 </p>
 
 
-# 📊 Skill Progress
+# 📊 SKILL PROGRESS
 
 HTML  
 ████████████████░░ 95%
@@ -43,7 +43,7 @@ Python
 ██████████░░░░░░░░ 65%
 
 ---
-# 📊 GitHub Dashboard
+# 📊 GITHUB DASHBOARD
 
 <p align="center">
 
@@ -57,7 +57,7 @@ Python
 
 ---
 
-# 🔥 GitHub Streak
+# 🔥 GITHUB STREAK
 
 <p align="center">
 
