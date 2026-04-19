@@ -67,7 +67,7 @@ Python
 
 ---
 
-# 🌐 Portfolio
+# 🌐 PORTFOLIO
 
 <p align="center">
 
@@ -79,7 +79,7 @@ Python
 
 ---
 
-# 🧠 Coding Quote
+# 🧠 CODING QUOTE
 
 <p align="center" >
    💻"Code is like humor. When you have to explain it, it's bad."                                                      
@@ -141,7 +141,7 @@ A YouTube style video platform using API.
 
 ---
 
-# 👀 Profile Views
+# 👀 PROFILE VIEWS
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=K899-priya&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
