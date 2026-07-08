@@ -41,7 +41,7 @@ React
 Python   
 ██████████░░░░░░░░ 65%
 
----
+
 # 📊 GITHUB DASHBOARD
 
 <p align="center">
@@ -54,7 +54,7 @@ Python
 
 </p>
 
----
+
 
 # 🔥 GITHUB STREAK
 
@@ -64,7 +64,7 @@ Python
 
 </p>
 
----
+
 
 # 🌐 PORTFOLIO
 
@@ -76,7 +76,7 @@ Python
 
 </p>
 
----
+
 
 # 🧠 CODING QUOTE
 
@@ -84,7 +84,7 @@ Python
    💻"Code is like humor. When you have to explain it, it's bad."                                                      
 </p>
 
----
+
 # 📌 Featured Projects
 
 | Project | Description |
@@ -138,6 +138,7 @@ A YouTube style video platform using API.
 
 </table>
 
+---
 ---
 
 # 👀 PROFILE VIEWS
