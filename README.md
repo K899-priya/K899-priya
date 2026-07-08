@@ -138,8 +138,7 @@ A YouTube style video platform using API.
 
 </table>
 
----
----
+
 
 # 👀 PROFILE VIEWS
 
@@ -150,4 +149,4 @@ A YouTube style video platform using API.
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=140&section=footer"/>
 </p>
-
+---
