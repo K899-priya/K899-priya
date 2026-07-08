@@ -14,7 +14,6 @@
 
 <br clear="right"/>
 
----
 
 # 🛠️ TECH STACK
 
